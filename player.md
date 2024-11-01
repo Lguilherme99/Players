@@ -3,14 +3,14 @@
 O Player de mídia digital é um equipamento da SWIFT projetado para transmitir conteúdo para painéis de LED e TVs. Ele recebe informações da empresa VTT, responsável pela atualização do conteúdo, que inclui comerciais da SWIFT. O pessoal de marketing da SWIFT envia novos conteúdos para a VTT, que, por sua vez, os envia para os players.
 
 ### Foto do Player (caso perguntem sobre o Player explicar e mostrar a foto)
-![Player de Mídia Digital](https://github.com/Lguilherme99/Players/blob/main/Player.PNG))
+<img src="https://github.com/Lguilherme99/Players/blob/main/Player.PNG" alt="Player de Mídia Digital" width="400px">
 
 ## Infraestrutura Necessária
 
 Cada loja da SWIFT possui um NICHO, que é um espaço com uma portinha, projetado para guardar equipamentos. Dentro desse nicho, há um ponto de rede conectado ao rack de TI da loja. Esse ponto deve estar ligado a um modem de banda larga ou a uma antena 4G. Algumas lojas usam banda larga da Claro ou VIVO Fibra, enquanto outras possuem antena 4G.
 
 ### Foto do Nicho (caso perguntem algo sobre o nicho explicar e mostrar a foto)
-![Nicho de Equipamentos](https://github.com/Lguilherme99/Players/blob/main/Nicho.jpg))
+<img src="https://github.com/Lguilherme99/Players/blob/main/Nicho.jpg" alt="Nicho de Equipamentos" width="400px">
 
 Para garantir o funcionamento do Player, verifique os seguintes pontos:
 
@@ -19,12 +19,12 @@ Para garantir o funcionamento do Player, verifique os seguintes pontos:
 2. A fonte de alimentação deve estar conectada à tomada.
 3. Se a loja possui uma TV, o cabo HDMI do Player deve estar conectado diretamente à TV.
    Foto da TV: (caso perguntem algo sobre a TV explicar e mostrar a foto)
-   ![Conexão com TV](https://github.com/Lguilherme99/Players/blob/main/TV.jpg ))
+   <img src="https://github.com/Lguilherme99/Players/blob/main/TV.jpg" alt="Conexão com TV" width="400px">
 
 4. Se a loja possui um painel de LED, conecte o cabo HDMI do Player a um ponto no Player e ao equipamento SendBox. Para isso, um conversor de HDMI para DVI é necessário (o DVI é usado para converter o HDMI do Player para o SendBox).
 
    Foto Painel de LED (caso perguntem sobre o painel mostrar a foto)
-   ![Conexão com Painel de LED](https://github.com/Lguilherme99/Players/blob/main/Painel%20de%20LED.jpg))
+   <img src="https://github.com/Lguilherme99/Players/blob/main/Painel%20de%20LED.jpg" alt="Conexão com Painel de LED" width="400px">
 
 5. Um cabo de rede do SendBox deve estar conectado ao painel de LED.
 6. Um cabo com ponta P2 e RCA deve ser conectado do Player a um amplificador, que é responsável pelo áudio das caixas de som da SWIFT.
